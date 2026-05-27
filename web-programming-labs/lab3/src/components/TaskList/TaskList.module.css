@@ -1,0 +1,15 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.empty {
+  text-align: center;
+  color: #64748b;
+  font-style: italic;
+  padding: 2rem;
+  background-color: #f8fafc;
+  border-radius: 8px;
+  border: 1px dashed #cbd5e1;
+}
